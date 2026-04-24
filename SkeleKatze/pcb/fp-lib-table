@@ -1,0 +1,4 @@
+(fp_lib_table
+	(version 7)
+	(lib (name "SkeleKatze-Lib") (type "KiCad") (uri "${KIPRJMOD}/SkeleKatze-Lib.pretty") (options "") (descr ""))
+)
