@@ -1,6 +1,31 @@
-# Exclude practice-run directories
+# Practice-run directories (exclude from repo)
 Trial-*/
-
-# Optional typo variant present in this workspace
 Trian-*/
-.history
+
+# Editor/OS noise
+.history/
+.DS_Store
+Thumbs.db
+*.tmp
+*.temp
+
+# KiCad local settings and caches (machine-specific)
+*.kicad_prl
+*-backups/
+*-cache.lib
+*-rescue.lib
+*-rescue.dcm
+sym-lib-table
+fp-info-cache
+
+# KiCad autosave/lock files
+*.kicad_sch-bak
+*.sch-bak
+*.bak
+*.lck
+*.kicad_pro-bak
+
+# Export/build artifacts (uncomment if you do not want them versioned)
+**/*.gbr
+**/*.drl
+**/*.zip
