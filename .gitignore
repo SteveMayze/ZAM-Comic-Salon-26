@@ -29,3 +29,4 @@ fp-info-cache
 **/*.gbr
 **/*.drl
 **/*.zip
+**/*gerber/
