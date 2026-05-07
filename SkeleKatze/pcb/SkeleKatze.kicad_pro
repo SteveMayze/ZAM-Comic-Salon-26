@@ -628,6 +628,12 @@
           "label": "#",
           "name": "${ITEM_NUMBER}",
           "show": false
+        },
+        {
+          "group_by": false,
+          "label": "Purpose",
+          "name": "Purpose",
+          "show": false
         }
       ],
       "filter_string": "",
@@ -678,7 +684,7 @@
         "uuid": "1d10bc1e-760c-4391-98f0-399393cf71d9"
       }
     ],
-    "used_designators": "Lg2",
+    "used_designators": "SW2,Lg2-3",
     "variants": []
   },
   "sheets": [

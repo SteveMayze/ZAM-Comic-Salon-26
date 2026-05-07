@@ -1,0 +1,11 @@
+
+
+output: SkeleKatze-Merged.kicad_mod
+name: SKELEKATZE_MERGED
+layers:
+  F.SilkS: SkeleKatze-F_Silk.kicad_mod
+  F.Mask: SkeleKatze-F_Mask.kicad_mod
+  F.Cu: SkeleKatze-F_Copper.kicad_mod
+  B.Mask: SkeleKatze-B_Mask.kicad_mod
+
+
