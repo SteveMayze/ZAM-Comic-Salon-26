@@ -4,6 +4,7 @@ Trian-*/
 
 # Editor/OS noise
 .history/
+.vscode/
 .DS_Store
 Thumbs.db
 *.tmp
