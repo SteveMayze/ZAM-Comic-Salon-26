@@ -1520,7 +1520,7 @@
 				(justify left)
 			)
 		)
-		(property "Footprint" "SkeleKatze-Lib:SkeleKatze-Merged"
+		(property "Footprint" "SkeleKatze-Lib:SkeleKatze-Merged-NFS"
 			(at 120.65 73.66 0)
 			(hide yes)
 			(show_name no)
