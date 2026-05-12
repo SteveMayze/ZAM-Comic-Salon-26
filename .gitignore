@@ -29,5 +29,6 @@ fp-info-cache
 # Export/build artifacts (uncomment if you do not want them versioned)
 **/*.gbr
 **/*.drl
-**/*.zip
-**/*gerber/
+# **/*.zip
+**/*gerber*/
+**/*gerber*.zip
