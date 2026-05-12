@@ -1,0 +1,10 @@
+
+# Merged files without the Front Silkscreen (NFS).
+output: SkeleKatze-Merged-NFS.kicad_mod
+name: SKELEKATZE_MERGED_NFS
+layers:
+  F.Mask: SkeleKatze-F_Mask.kicad_mod
+  F.Cu: SkeleKatze-F_Copper.kicad_mod
+  B.Mask: SkeleKatze-B_Mask.kicad_mod
+
+
