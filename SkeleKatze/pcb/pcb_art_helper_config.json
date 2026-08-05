@@ -1,0 +1,9 @@
+{
+  "output": "D:\\Projects\\ZAM\\ZAM-Comic-Salon-26\\SkeleKatze\\Reference\\KiCad-R2.0\\SkeleKatze-R2.0.kicad_mod",
+  "name": "SKELEKATZE_R2_0",
+  "layers": {
+    "F.Cu": "D:\\Projects\\ZAM\\ZAM-Comic-Salon-26\\SkeleKatze\\Reference\\KiCad-R2.0\\F.Cu.kicad_mod",
+    "F.Mask": "D:\\Projects\\ZAM\\ZAM-Comic-Salon-26\\SkeleKatze\\Reference\\KiCad-R2.0\\F.Mask.kicad_mod",
+    "B.Mask": "D:\\Projects\\ZAM\\ZAM-Comic-Salon-26\\SkeleKatze\\Reference\\KiCad-R2.0\\B.Mask.kicad_mod"
+  }
+}

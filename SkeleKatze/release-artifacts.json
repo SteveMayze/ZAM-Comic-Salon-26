@@ -1,0 +1,16 @@
+{
+  "project": {
+    "path": "pcb/SkeleKatze.kicad_pro"
+  },
+  "gerber": {
+    "include_layers": [
+      "F.Cu",
+      "B.Cu",
+      "F.SilkS",
+      "B.SilkS",
+      "F.Mask",
+      "B.Mask",
+      "Edge.Cuts"
+    ]
+  }
+}
