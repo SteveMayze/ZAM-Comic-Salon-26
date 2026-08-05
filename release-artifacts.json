@@ -1,6 +1,6 @@
 {
   "project": {
-    "path": "pcb/SkeleKatze.kicad_pro"
+    "path": "SkeleKatze/pcb/SkeleKatze.kicad_pro"
   },
   "gerber": {
     "include_layers": [
