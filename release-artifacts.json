@@ -11,6 +11,9 @@
       "F.Mask",
       "B.Mask",
       "Edge.Cuts"
+    ],
+    "additional_files": [
+      "SkeleKatze/Reference/KiCad-R2.0/UV-Print-F.SilkS.png"
     ]
   }
 }
