@@ -1,5 +1,25 @@
 {
+  "schema_version": 2,
+  "installed_at": "2026-09-03T06:08:33Z",
   "module_repo": "SteveMayze/kicad-release-automation-module",
   "module_repo_url": "git@github.com:SteveMayze/kicad-release-automation-module.git",
-  "installed_version": "module-v0.1.0"
+  "module_version": "module-v0.2.0",
+  "installed_version": "module-v0.2.0",
+  "managed_files": {
+    "scripts/generate_release_artifacts.py": {
+      "version": "module-v0.2.0",
+      "sha256": "d11bdd5b59068b962de4818bf063590ffa8413f0eb40a50edb5122dba335afcb",
+      "installed_at": "2026-09-03T06:08:33Z"
+    },
+    "scripts/check_release_automation_update.py": {
+      "version": "module-v0.2.0",
+      "sha256": "64d7edd8a17ee44c5a6f4a1506be9f902a36c89ead03a313e8894b19fe2da684",
+      "installed_at": "2026-09-03T06:08:33Z"
+    },
+    ".github/workflows/release-gerbers.yml": {
+      "version": "module-v0.2.0",
+      "sha256": "b46b28beaa2abe11ee80f16cd9da7818bbe04a1570839b07b45b1a986a3396db",
+      "installed_at": "2026-09-03T06:08:33Z"
+    }
+  }
 }
