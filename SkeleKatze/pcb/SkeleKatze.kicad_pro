@@ -728,7 +728,7 @@
     ]
   ],
   "text_variables": {
-    "RELEASE": "1.0.0"
+    "RELEASE": "1.9.2"
   },
   "tuning_profiles": {
     "meta": {
