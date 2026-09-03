@@ -34,3 +34,5 @@ fp-info-cache
 **/*gerber*.zip
 
 secrets_/
+
+*-obsolete*
