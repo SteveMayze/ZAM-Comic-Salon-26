@@ -718,7 +718,7 @@
         "uuid": "1d10bc1e-760c-4391-98f0-399393cf71d9"
       }
     ],
-    "used_designators": "SW2,Lg2-3",
+    "used_designators": "H1,SW2,Lg2-3",
     "variants": []
   },
   "sheets": [
@@ -728,7 +728,7 @@
     ]
   ],
   "text_variables": {
-    "RELEASE": "1.9.2"
+    "RELEASE": "2.0.0"
   },
   "tuning_profiles": {
     "meta": {
